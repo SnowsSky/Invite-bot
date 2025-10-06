@@ -1,4 +1,4 @@
-# Bot Discord Invites
+# Bot Discord Invites dee
 # Description
 - Le bot Invites est un outil simple conçu pour vous aider à gérer les invitations sur vos serveurs Discord. Il permet de suivre les membres qui rejoignent ou quittent le serveur et de savoir par qui ils ont été invités, ainsi que le nombre total d'invitations pour chaque membre.
 
